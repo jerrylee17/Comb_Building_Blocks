@@ -1,0 +1,9 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/jerry/CMPE125_labs/Lab3/Lab3/Lab3.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/jerry/CMPE125_labs/Lab3/Lab3/Lab3.srcs/sim_1/new/tb_enc.v,1568681816,verilog,,,,tb_encoder,,,,,,,,
+C:/Users/jerry/CMPE125_labs/Lab3/Lab3/Lab3.srcs/sources_1/new/Encoder_case.v,1568660674,verilog,,C:/Users/jerry/CMPE125_labs/Lab3/Lab3/Lab3.srcs/sources_1/new/Encoder_for.v,,enc_case,,,,,,,,
+C:/Users/jerry/CMPE125_labs/Lab3/Lab3/Lab3.srcs/sources_1/new/Encoder_for.v,1568681638,verilog,,C:/Users/jerry/CMPE125_labs/Lab3/Lab3/Lab3.srcs/sources_1/new/Encoder_if.v,,enc_for,,,,,,,,
+C:/Users/jerry/CMPE125_labs/Lab3/Lab3/Lab3.srcs/sources_1/new/Encoder_if.v,1568660328,verilog,,C:/Users/jerry/CMPE125_labs/Lab3/Lab3/Lab3.srcs/sim_1/new/tb_enc.v,,enc_if,,,,,,,,
